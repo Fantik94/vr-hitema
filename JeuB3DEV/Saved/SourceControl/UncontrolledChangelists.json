@@ -5,7 +5,28 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"G:/Software/UnrealEngine5/GitHub/vr-hitema/JeuB3DEV/Content/StarterContent/Materials/M_AssetPlatform.uasset"
+				"G:/Software/UnrealEngine5/GitHub/vr-hitema/JeuB3DEV/Content/StarterContent/Materials/M_AssetPlatform.uasset",
+				"G:/Software/UnrealEngine5/GitHub/vr-hitema/JeuB3DEV/Content/personnages/BP_Ninja.uasset",
+				"G:/Software/UnrealEngine5/GitHub/vr-hitema/JeuB3DEV/Content/personnages/BS_Ninja.uasset",
+				"G:/Software/UnrealEngine5/GitHub/vr-hitema/JeuB3DEV/Content/personnages/AnimeBP_Ninja.uasset",
+				"G:/Software/UnrealEngine5/GitHub/vr-hitema/JeuB3DEV/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/XJ/3LO1PZI5NYLDQ121YZWILN.uasset",
+				"G:/Software/UnrealEngine5/GitHub/vr-hitema/JeuB3DEV/Content/personnages/Ch24_1001_Diffuse.uasset",
+				"G:/Software/UnrealEngine5/GitHub/vr-hitema/JeuB3DEV/Content/personnages/Ch24_1001_Glossiness.uasset",
+				"G:/Software/UnrealEngine5/GitHub/vr-hitema/JeuB3DEV/Content/personnages/Ch24_1001_Normal.uasset",
+				"G:/Software/UnrealEngine5/GitHub/vr-hitema/JeuB3DEV/Content/personnages/Ch24_1001_Specular.uasset",
+				"G:/Software/UnrealEngine5/GitHub/vr-hitema/JeuB3DEV/Content/personnages/Ch24_Body.uasset",
+				"G:/Software/UnrealEngine5/GitHub/vr-hitema/JeuB3DEV/Content/personnages/Ch24_nonPBR.uasset",
+				"G:/Software/UnrealEngine5/GitHub/vr-hitema/JeuB3DEV/Content/personnages/Ch24_nonPBR_PhysicsAsset.uasset",
+				"G:/Software/UnrealEngine5/GitHub/vr-hitema/JeuB3DEV/Content/personnages/Ch24_nonPBR_Skeleton.uasset",
+				"G:/Software/UnrealEngine5/GitHub/vr-hitema/JeuB3DEV/Content/personnages/animations/Idle.uasset",
+				"G:/Software/UnrealEngine5/GitHub/vr-hitema/JeuB3DEV/Content/personnages/animations/Jumping_Up.uasset",
+				"G:/Software/UnrealEngine5/GitHub/vr-hitema/JeuB3DEV/Content/personnages/animations/Run.uasset",
+				"G:/Software/UnrealEngine5/GitHub/vr-hitema/JeuB3DEV/Content/personnages/animations/Walking.uasset",
+				"G:/Software/UnrealEngine5/GitHub/vr-hitema/JeuB3DEV/Content/personnages/BS_NinjaCrouch.uasset",
+				"G:/Software/UnrealEngine5/GitHub/vr-hitema/JeuB3DEV/Content/personnages/animations/crouch_idle.uasset",
+				"G:/Software/UnrealEngine5/GitHub/vr-hitema/JeuB3DEV/Content/personnages/animations/crouch_walk.uasset",
+				"G:/Software/UnrealEngine5/GitHub/vr-hitema/JeuB3DEV/Content/personnages/BP_nin.uasset",
+				"G:/Software/UnrealEngine5/GitHub/vr-hitema/JeuB3DEV/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/DE/SWSI13675DVYIZ0N4NF7Y3.uasset"
 			]
 		}
 	]
