@@ -6139,3 +6139,116 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.03.07-14.36.42:373][816]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=52
 [2023.03.07-14.36.42:382][816]LogUObjectHash: Compacting FUObjectHashTables data took   2.49ms
 [2023.03.07-14.36.42:466][817]LogPlayLevel: Display: Destroying online subsystem :Context_187
+[2023.03.07-14.37.53:324][318]LogUObjectHash: Compacting FUObjectHashTables data took   2.18ms
+[2023.03.07-14.37.53:332][318]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/XJ/3LO1PZI5NYLDQ121YZWILN_Auto3
+[2023.03.07-14.37.53:332][318]LogSavePackage: Moving '../../../../GitHub/vr-hitema/JeuB3DEV/Saved/3LO1PZI5NYLDQ121YZWILN_Auto3D3F0CF3E421B108CB3D946A69CCEE60B.tmp' to '../../../../GitHub/vr-hitema/JeuB3DEV/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/XJ/3LO1PZI5NYLDQ121YZWILN_Auto3.uasset'
+[2023.03.07-14.37.53:332][318]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.087
+[2023.03.07-14.37.53:332][318]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.087
+[2023.03.07-14.37.53:332][318]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/personnages/BP_Ninja] ([2] browsable assets)...
+[2023.03.07-14.37.53:447][318]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/personnages/BP_Ninja.BP_Ninja]
+[2023.03.07-14.37.53:447][318]OBJ SavePackage: Finished generating thumbnails for package [/Game/personnages/BP_Ninja]
+[2023.03.07-14.37.53:449][318]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/personnages/BP_Ninja" FILE="../../../../GitHub/vr-hitema/JeuB3DEV/Saved/Autosaves/Game/personnages/BP_Ninja_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2023.03.07-14.37.53:471][318]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/personnages/BP_Ninja_Auto3
+[2023.03.07-14.37.53:471][318]LogSavePackage: Moving '../../../../GitHub/vr-hitema/JeuB3DEV/Saved/BP_Ninja_Auto3D30BECC340CE206DE437F6A4FC14FA61.tmp' to '../../../../GitHub/vr-hitema/JeuB3DEV/Saved/Autosaves/Game/personnages/BP_Ninja_Auto3.uasset'
+[2023.03.07-14.37.53:476][318]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/personnages/BS_Ninja] ([1] browsable assets)...
+[2023.03.07-14.37.53:509][318]OBJ SavePackage:     Rendered thumbnail for [BlendSpace1D /Game/personnages/BS_Ninja.BS_Ninja]
+[2023.03.07-14.37.53:510][318]OBJ SavePackage: Finished generating thumbnails for package [/Game/personnages/BS_Ninja]
+[2023.03.07-14.37.53:510][318]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/personnages/BS_Ninja" FILE="../../../../GitHub/vr-hitema/JeuB3DEV/Saved/Autosaves/Game/personnages/BS_Ninja_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2023.03.07-14.37.53:522][318]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/personnages/BS_Ninja_Auto3
+[2023.03.07-14.37.53:522][318]LogSavePackage: Moving '../../../../GitHub/vr-hitema/JeuB3DEV/Saved/BS_Ninja_Auto36856AA0C45E8BCB4829C93912E5FB35E.tmp' to '../../../../GitHub/vr-hitema/JeuB3DEV/Saved/Autosaves/Game/personnages/BS_Ninja_Auto3.uasset'
+[2023.03.07-14.37.53:522][318]LogFileHelpers: Auto-saving content packages took 0.181
+[2023.03.07-14.46.11:396][941]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.03.07-14.46.11:402][941]LogContentBundle: [Container: ThirdPersonMap] Generating Streaming for 0 Content Bundles.
+[2023.03.07-14.46.11:404][941]LogWorldPartition: Display: GenerateStreaming started...
+[2023.03.07-14.46.11:404][941]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.03.07-14.46.11:404][941]LogWorldPartition: Display: GetPartitionedActors took 8 us (total: 438 us)
+[2023.03.07-14.46.11:404][941]LogWorldPartition: Display: GenerateStreaming took 260 us (total: 16 ms)
+[2023.03.07-14.46.11:405][941]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.03.07-14.46.11:405][941]PIE: New page: PIE session: ThirdPersonMap (7 mars 2023 à 16:46:11)
+[2023.03.07-14.46.11:405][941]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2023.03.07-14.46.11:410][941]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005644s)
+[2023.03.07-14.46.11:410][941]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.005680s)
+[2023.03.07-14.46.11:411][941]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.07-14.46.11:411][941]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2023.03.07-14.46.11:411][941]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=0)
+[2023.03.07-14.46.11:411][941]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.03.07-14.46.11:411][941]LogWorldPartition: UWorldPartition::Initialize(Asset=ThirdPersonMap, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2023.03.07-14.46.11:413][941]LogContentBundle: [Container: ThirdPersonMap] Creating new contrainer.
+[2023.03.07-14.46.11:413][941]LogWorldPartition: Display: WorldPartition initialize took 1 ms (total: 1.16 sec)
+[2023.03.07-14.46.11:413][941]LogPlayLevel: PIE: World Init took: (0.002487s)
+[2023.03.07-14.46.11:443][941]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2023.03.07-14.46.11:445][941]LogAudio: Display: Creating Audio Device:                 Id: 53, Scope: Unique, Realtime: True
+[2023.03.07-14.46.11:445][941]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.03.07-14.46.11:445][941]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.03.07-14.46.11:445][941]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.03.07-14.46.11:445][941]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.03.07-14.46.11:445][941]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.03.07-14.46.11:445][941]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.03.07-14.46.11:445][941]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.03.07-14.46.11:445][941]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.03.07-14.46.11:445][941]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.03.07-14.46.11:445][941]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.03.07-14.46.11:445][941]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.03.07-14.46.11:448][941]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.03.07-14.46.11:485][941]LogAudioMixer: Display: Using Audio Hardware Device Casque (Galaxy Buds+ (6982))
+[2023.03.07-14.46.11:486][941]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.03.07-14.46.11:486][941]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.03.07-14.46.11:486][941]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.03.07-14.46.11:487][941]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=53
+[2023.03.07-14.46.11:487][941]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=53
+[2023.03.07-14.46.11:489][941]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=53
+[2023.03.07-14.46.11:489][941]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=53
+[2023.03.07-14.46.11:489][941]LogInit: FAudioDevice initialized.
+[2023.03.07-14.46.11:489][941]LogAudio: Display: Audio Device (ID: 53) registered with world 'ThirdPersonMap'.
+[2023.03.07-14.46.11:491][941]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.03.07-14.46.11:494][941]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2023.03.07-15.46.11
+[2023.03.07-14.46.11:495][941]LogWorld: Bringing up level for play took: 0.002670
+[2023.03.07-14.46.11:497][941]LogOnline: OSS: Created online subsystem instance for: :Context_188
+[2023.03.07-14.46.11:497][941]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=580.000 Y=560.000 Z=111.038
+[2023.03.07-14.46.11:498][941]PIE: Server logged in
+[2023.03.07-14.46.11:498][941]PIE: Play in editor total start time 0,096 seconds.
+[2023.03.07-14.46.19:367][490]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.07-14.46.19:367][490]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2023.03.07-14.46.19:367][490]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2023.03.07-14.46.19:367][490]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.07-14.46.19:367][490]LogContentBundle: [Container: ThirdPersonMap] Deleting container.
+[2023.03.07-14.46.19:371][490]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.03.07-14.46.19:376][490]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.07-14.46.19:404][490]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.03.07-14.46.19:405][490]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=53
+[2023.03.07-14.46.19:406][490]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=53
+[2023.03.07-14.46.19:410][490]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.07-14.46.19:413][490]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2023.03.07-14.46.19:472][491]LogPlayLevel: Display: Destroying online subsystem :Context_188
+[2023.03.07-14.48.37:094][128]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2023.03.07-14.48.37:102][128]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.03.07-14.48.37:144][128]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/XJ/3LO1PZI5NYLDQ121YZWILN
+[2023.03.07-14.48.37:144][128]LogSavePackage: Moving '../../../../GitHub/vr-hitema/JeuB3DEV/Saved/3LO1PZI5NYLDQ121YZWILN18E30EF44C5C23FAB46F82BA7E9A5A49.tmp' to '../../../../GitHub/vr-hitema/JeuB3DEV/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/XJ/3LO1PZI5NYLDQ121YZWILN.uasset'
+[2023.03.07-14.48.37:147][128]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/personnages/BP_Ninja" FILE="../../../../GitHub/vr-hitema/JeuB3DEV/Content/personnages/BP_Ninja.uasset" SILENT=true
+[2023.03.07-14.48.37:159][128]LogSavePackage: Moving output files for package: /Game/personnages/BP_Ninja
+[2023.03.07-14.48.37:159][128]LogSavePackage: Moving '../../../../GitHub/vr-hitema/JeuB3DEV/Saved/BP_Ninja3096A40643CEF5926C230FB12FBCA2E0.tmp' to '../../../../GitHub/vr-hitema/JeuB3DEV/Content/personnages/BP_Ninja.uasset'
+[2023.03.07-14.48.37:160][128]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/personnages/AnimeBP_Ninja" FILE="../../../../GitHub/vr-hitema/JeuB3DEV/Content/personnages/AnimeBP_Ninja.uasset" SILENT=true
+[2023.03.07-14.48.37:189][128]LogSavePackage: Moving output files for package: /Game/personnages/AnimeBP_Ninja
+[2023.03.07-14.48.37:190][128]LogSavePackage: Moving '../../../../GitHub/vr-hitema/JeuB3DEV/Saved/AnimeBP_Ninja773D5D9F4D286621A01601ABD658BD3D.tmp' to '../../../../GitHub/vr-hitema/JeuB3DEV/Content/personnages/AnimeBP_Ninja.uasset'
+[2023.03.07-14.48.37:190][128]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/personnages/BS_Ninja" FILE="../../../../GitHub/vr-hitema/JeuB3DEV/Content/personnages/BS_Ninja.uasset" SILENT=true
+[2023.03.07-14.48.37:192][128]LogSavePackage: Moving output files for package: /Game/personnages/BS_Ninja
+[2023.03.07-14.48.37:192][128]LogSavePackage: Moving '../../../../GitHub/vr-hitema/JeuB3DEV/Saved/BS_Ninja51B9957846AC96E0DBDC5AA9C1896BDA.tmp' to '../../../../GitHub/vr-hitema/JeuB3DEV/Content/personnages/BS_Ninja.uasset'
+[2023.03.07-14.48.37:193][128]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/personnages/BS_NinjaCrouch" FILE="../../../../GitHub/vr-hitema/JeuB3DEV/Content/personnages/BS_NinjaCrouch.uasset" SILENT=true
+[2023.03.07-14.48.37:194][128]LogSavePackage: Moving output files for package: /Game/personnages/BS_NinjaCrouch
+[2023.03.07-14.48.37:194][128]LogSavePackage: Moving '../../../../GitHub/vr-hitema/JeuB3DEV/Saved/BS_NinjaCrouch578A86264333906548A113B868005DA0.tmp' to '../../../../GitHub/vr-hitema/JeuB3DEV/Content/personnages/BS_NinjaCrouch.uasset'
+[2023.03.07-14.48.37:219][128]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/personnages/animations/Jumping" FILE="../../../../GitHub/vr-hitema/JeuB3DEV/Content/personnages/animations/Jumping.uasset" SILENT=true
+[2023.03.07-14.48.37:223][128]LogSavePackage: Moving output files for package: /Game/personnages/animations/Jumping
+[2023.03.07-14.48.37:223][128]LogSavePackage: Moving '../../../../GitHub/vr-hitema/JeuB3DEV/Saved/Jumping898620884F44A393869056AFA21DA357.tmp' to '../../../../GitHub/vr-hitema/JeuB3DEV/Content/personnages/animations/Jumping.uasset'
+[2023.03.07-14.48.37:233][128]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/personnages/animations/falling" FILE="../../../../GitHub/vr-hitema/JeuB3DEV/Content/personnages/animations/falling.uasset" SILENT=true
+[2023.03.07-14.48.37:236][128]LogSavePackage: Moving output files for package: /Game/personnages/animations/falling
+[2023.03.07-14.48.37:236][128]LogSavePackage: Moving '../../../../GitHub/vr-hitema/JeuB3DEV/Saved/fallingBB289BA845D030E0EF14F6961EF71232.tmp' to '../../../../GitHub/vr-hitema/JeuB3DEV/Content/personnages/animations/falling.uasset'
+[2023.03.07-14.48.37:262][128]LogFileHelpers: InternalPromptForCheckoutAndSave took 159 ms (total: 1.41 sec)
+[2023.03.07-14.48.37:270][128]AssetCheck: New page: Asset Save: multiple assets
+[2023.03.07-14.48.37:270][128]LogContentValidation: Display: Validating /Script/Engine.BlendSpace1D /Game/personnages/BS_Ninja.BS_Ninja
+[2023.03.07-14.48.37:270][128]LogContentValidation: Display: Validating /Script/Engine.AnimBlueprint /Game/personnages/AnimeBP_Ninja.AnimeBP_Ninja
+[2023.03.07-14.48.37:270][128]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/personnages/BP_Ninja.BP_Ninja
+[2023.03.07-14.48.37:270][128]LogContentValidation: Display: Validating /Game/personnages/BP_Ninja.BP_Ninja_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Ninja_C_UAID_B42E994FFFB1D16C01_1770923991
+[2023.03.07-14.48.37:270][128]LogContentValidation: Display: Validating /Script/Engine.AnimSequence /Game/personnages/animations/falling.falling
+[2023.03.07-14.48.37:270][128]LogContentValidation: Display: Validating /Script/Engine.BlendSpace1D /Game/personnages/BS_NinjaCrouch.BS_NinjaCrouch
+[2023.03.07-14.48.37:270][128]LogContentValidation: Display: Validating /Script/Engine.AnimSequence /Game/personnages/animations/Jumping.Jumping
+[2023.03.07-14.48.43:687][541]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
