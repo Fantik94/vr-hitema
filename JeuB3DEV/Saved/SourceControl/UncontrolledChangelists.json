@@ -5,6 +5,8 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"G:/Software/UnrealEngine5/GitHub/vr-hitema/JeuB3DEV/Content/personnages/BP_Ninja.uasset",
+				"G:/Software/UnrealEngine5/GitHub/vr-hitema/JeuB3DEV/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/XJ/3LO1PZI5NYLDQ121YZWILN.uasset",
 				"C:/Users/PC/Documents/Unreal Projects/MyProject/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
 				"C:/Users/PC/Documents/Unreal Projects/MyProject/Content/Blueprints/Character/BP-Player.uasset",
 				"C:/Users/PC/Documents/Unreal Projects/MyProject/Content/StylizedProvencal/Meshes/SMF_Forest_Tree02.uasset",
