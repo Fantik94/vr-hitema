@@ -1847,3 +1847,249 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.03.09-13.05.59:766][ 61]LightingResults: New page: Lighting Build - 9 mars 2023 à 15:05:59
 [2023.03.09-13.05.59:767][ 61]LogStaticLightingSystem: Warning: WorldSettings.bForceNoPrecomputedLighting is true, Skipping Lighting Build!
 [2023.03.09-13.05.59:811][ 61]LogEditorBuildUtils: Build time 0:00
+[2023.03.09-13.10.42:384][245]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2023.03.09-13.10.42:391][245]LogPackageLocalizationCache: Processed 43 localized package path(s) for 1 prioritized culture(s) in 0.005284 seconds
+[2023.03.09-13.10.42:392][245]LogSerialization: UsePackageTrailer: 'true'
+[2023.03.09-13.10.42:393][245]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/GC/UVAXTCI1AJZZ7EKDN5N1Q4_Auto1
+[2023.03.09-13.10.42:393][245]LogSavePackage: Moving 'C:/Users/PC/Documents/GitHub/vr-hitema/JeuB3DEV/Saved/UVAXTCI1AJZZ7EKDN5N1Q4_Auto1685E2B5D4091F013E0A415A451A1733B.tmp' to 'C:/Users/PC/Documents/GitHub/vr-hitema/JeuB3DEV/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/GC/UVAXTCI1AJZZ7EKDN5N1Q4_Auto1.uasset'
+[2023.03.09-13.10.42:394][245]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/N6/DID1P66UDVIRM9Q73UXSA0_Auto1
+[2023.03.09-13.10.42:394][245]LogSavePackage: Moving 'C:/Users/PC/Documents/GitHub/vr-hitema/JeuB3DEV/Saved/DID1P66UDVIRM9Q73UXSA0_Auto1F9BBFD9142D23C409B922F98508A45EC.tmp' to 'C:/Users/PC/Documents/GitHub/vr-hitema/JeuB3DEV/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/N6/DID1P66UDVIRM9Q73UXSA0_Auto1.uasset'
+[2023.03.09-13.10.42:396][245]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/XJ/3LO1PZI5NYLDQ121YZWILN_Auto1
+[2023.03.09-13.10.42:396][245]LogSavePackage: Moving 'C:/Users/PC/Documents/GitHub/vr-hitema/JeuB3DEV/Saved/3LO1PZI5NYLDQ121YZWILN_Auto1259C247B4D270DE91829A9A0DC564245.tmp' to 'C:/Users/PC/Documents/GitHub/vr-hitema/JeuB3DEV/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/XJ/3LO1PZI5NYLDQ121YZWILN_Auto1.uasset'
+[2023.03.09-13.10.42:399][245]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/5Z/SF14V69X3NAY6GZ2GO660P_Auto1
+[2023.03.09-13.10.42:399][245]LogSavePackage: Moving 'C:/Users/PC/Documents/GitHub/vr-hitema/JeuB3DEV/Saved/SF14V69X3NAY6GZ2GO660P_Auto1F5E303C947FB49A427BBF98AC0D0C546.tmp' to 'C:/Users/PC/Documents/GitHub/vr-hitema/JeuB3DEV/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/5Z/SF14V69X3NAY6GZ2GO660P_Auto1.uasset'
+[2023.03.09-13.10.42:401][245]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/J0/T9BJMCET35C4WKUSEV1S1A_Auto1
+[2023.03.09-13.10.42:401][245]LogSavePackage: Moving 'C:/Users/PC/Documents/GitHub/vr-hitema/JeuB3DEV/Saved/T9BJMCET35C4WKUSEV1S1A_Auto1A042DD124DD0B9C357B72C903B365591.tmp' to 'C:/Users/PC/Documents/GitHub/vr-hitema/JeuB3DEV/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/J0/T9BJMCET35C4WKUSEV1S1A_Auto1.uasset'
+[2023.03.09-13.10.42:403][245]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/0R/BH70N11XS63E5U7JG7FNSZ_Auto1
+[2023.03.09-13.10.42:403][245]LogSavePackage: Moving 'C:/Users/PC/Documents/GitHub/vr-hitema/JeuB3DEV/Saved/BH70N11XS63E5U7JG7FNSZ_Auto19C01E08F49B44DF7CEB716A58BC9B2FE.tmp' to 'C:/Users/PC/Documents/GitHub/vr-hitema/JeuB3DEV/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/0R/BH70N11XS63E5U7JG7FNSZ_Auto1.uasset'
+[2023.03.09-13.10.42:405][245]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/CH/90D3PXSOUCI46S4EPZ4WHT_Auto1
+[2023.03.09-13.10.42:405][245]LogSavePackage: Moving 'C:/Users/PC/Documents/GitHub/vr-hitema/JeuB3DEV/Saved/90D3PXSOUCI46S4EPZ4WHT_Auto19FBF32784F3033C4E57D9BAA79C01F92.tmp' to 'C:/Users/PC/Documents/GitHub/vr-hitema/JeuB3DEV/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/CH/90D3PXSOUCI46S4EPZ4WHT_Auto1.uasset'
+[2023.03.09-13.10.42:406][245]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/9L/C18W3GSQ46FNBUGX8AE7NA_Auto1
+[2023.03.09-13.10.42:406][245]LogSavePackage: Moving 'C:/Users/PC/Documents/GitHub/vr-hitema/JeuB3DEV/Saved/C18W3GSQ46FNBUGX8AE7NA_Auto1C942666B4B0469FD50F894888B2F7730.tmp' to 'C:/Users/PC/Documents/GitHub/vr-hitema/JeuB3DEV/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/9L/C18W3GSQ46FNBUGX8AE7NA_Auto1.uasset'
+[2023.03.09-13.10.42:407][245]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.031
+[2023.03.09-13.10.42:407][245]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.031
+[2023.03.09-13.11.53:591][404]LogStaticMesh: Display: Building static mesh SM_Door...
+[2023.03.09-13.11.53:721][406]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StylizedProvencal/Meshes/SM_Door.SM_Door
+[2023.03.09-13.11.53:721][406]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StylizedProvencal/Meshes/SM_Door.SM_Door
+[2023.03.09-13.11.53:722][406]LogActorFactory: Actor Factory spawned StaticMesh /Game/StylizedProvencal/Meshes/SM_Door.SM_Door as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_0
+[2023.03.09-13.11.53:736][406]LogStaticMesh: Built static mesh [0.15s] /Game/StylizedProvencal/Meshes/SM_Door.SM_Door
+[2023.03.09-13.11.55:007][529]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StylizedProvencal/Meshes/SM_Door.SM_Door
+[2023.03.09-13.11.55:007][529]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StylizedProvencal/Meshes/SM_Door.SM_Door
+[2023.03.09-13.11.55:009][529]LogActorFactory: Actor Factory spawned StaticMesh /Game/StylizedProvencal/Meshes/SM_Door.SM_Door as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_2CF05D578535BD6D01_2015509528
+[2023.03.09-13.12.12:155][514]LogShaderCompilers: Display: ================================================
+[2023.03.09-13.12.12:155][514]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.03.09-13.12.12:155][514]LogShaderCompilers: Display: Total job queries 314, among them cache hits 54 (17.20%)
+[2023.03.09-13.12.12:155][514]LogShaderCompilers: Display: Tracking 260 distinct input hashes that result in 189 distinct outputs (72.69%)
+[2023.03.09-13.12.12:155][514]LogShaderCompilers: Display: RAM used: 2.00 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.24%
+[2023.03.09-13.12.12:155][514]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.03.09-13.12.12:155][514]LogShaderCompilers: Display: Shaders Compiled: 0
+[2023.03.09-13.12.12:155][514]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2023.03.09-13.12.12:155][514]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2023.03.09-13.12.12:155][514]LogShaderCompilers: Display: ================================================
+[2023.03.09-13.12.57:560][114]LogViewport: Scene viewport resized to 1587x671, mode Windowed.
+[2023.03.09-13.12.57:597][116]LogViewport: Scene viewport resized to 1587x659, mode Windowed.
+[2023.03.09-13.12.57:647][118]LogViewport: Scene viewport resized to 1587x625, mode Windowed.
+[2023.03.09-13.12.57:703][120]LogViewport: Scene viewport resized to 1587x572, mode Windowed.
+[2023.03.09-13.12.57:763][122]LogViewport: Scene viewport resized to 1587x528, mode Windowed.
+[2023.03.09-13.12.57:806][123]LogViewport: Scene viewport resized to 1587x504, mode Windowed.
+[2023.03.09-13.12.57:840][125]LogViewport: Scene viewport resized to 1587x491, mode Windowed.
+[2023.03.09-13.12.57:881][127]LogViewport: Scene viewport resized to 1587x479, mode Windowed.
+[2023.03.09-13.12.57:915][129]LogViewport: Scene viewport resized to 1587x473, mode Windowed.
+[2023.03.09-13.12.58:886][226]LogStaticMesh: Display: Building static mesh SM_Wooden_Arch_Tunnel...
+[2023.03.09-13.12.58:901][226]LogStaticMesh: Built static mesh [0.02s] /Game/StylizedProvencal/Meshes/SM_Wooden_Arch_Tunnel.SM_Wooden_Arch_Tunnel
+[2023.03.09-13.12.59:035][229]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StylizedProvencal/Meshes/SM_Wooden_Arch_Tunnel.SM_Wooden_Arch_Tunnel
+[2023.03.09-13.12.59:035][229]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StylizedProvencal/Meshes/SM_Wooden_Arch_Tunnel.SM_Wooden_Arch_Tunnel
+[2023.03.09-13.12.59:036][229]LogActorFactory: Actor Factory spawned StaticMesh /Game/StylizedProvencal/Meshes/SM_Wooden_Arch_Tunnel.SM_Wooden_Arch_Tunnel as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_1
+[2023.03.09-13.13.00:077][337]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StylizedProvencal/Meshes/SM_Wooden_Arch_Tunnel.SM_Wooden_Arch_Tunnel
+[2023.03.09-13.13.00:077][337]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StylizedProvencal/Meshes/SM_Wooden_Arch_Tunnel.SM_Wooden_Arch_Tunnel
+[2023.03.09-13.13.00:079][337]LogActorFactory: Actor Factory spawned StaticMesh /Game/StylizedProvencal/Meshes/SM_Wooden_Arch_Tunnel.SM_Wooden_Arch_Tunnel as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_2CF05D578535BD6D01_2080579529
+[2023.03.09-13.15.53:920][391]LogViewport: Scene viewport resized to 1587x478, mode Windowed.
+[2023.03.09-13.15.53:955][393]LogViewport: Scene viewport resized to 1587x487, mode Windowed.
+[2023.03.09-13.15.53:992][395]LogViewport: Scene viewport resized to 1587x498, mode Windowed.
+[2023.03.09-13.15.54:032][397]LogViewport: Scene viewport resized to 1587x513, mode Windowed.
+[2023.03.09-13.15.54:068][399]LogViewport: Scene viewport resized to 1587x526, mode Windowed.
+[2023.03.09-13.15.54:106][401]LogViewport: Scene viewport resized to 1587x537, mode Windowed.
+[2023.03.09-13.15.54:144][403]LogViewport: Scene viewport resized to 1587x549, mode Windowed.
+[2023.03.09-13.15.54:183][405]LogViewport: Scene viewport resized to 1587x555, mode Windowed.
+[2023.03.09-13.15.54:222][407]LogViewport: Scene viewport resized to 1587x564, mode Windowed.
+[2023.03.09-13.15.54:259][409]LogViewport: Scene viewport resized to 1587x571, mode Windowed.
+[2023.03.09-13.15.54:296][411]LogViewport: Scene viewport resized to 1587x578, mode Windowed.
+[2023.03.09-13.15.54:335][413]LogViewport: Scene viewport resized to 1587x591, mode Windowed.
+[2023.03.09-13.15.54:372][415]LogViewport: Scene viewport resized to 1587x607, mode Windowed.
+[2023.03.09-13.15.54:411][417]LogViewport: Scene viewport resized to 1587x625, mode Windowed.
+[2023.03.09-13.15.54:448][419]LogViewport: Scene viewport resized to 1587x637, mode Windowed.
+[2023.03.09-13.15.54:486][421]LogViewport: Scene viewport resized to 1587x645, mode Windowed.
+[2023.03.09-13.15.54:526][423]LogViewport: Scene viewport resized to 1587x654, mode Windowed.
+[2023.03.09-13.23.37:705][634]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.03.09-13.23.37:746][634]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/GC/UVAXTCI1AJZZ7EKDN5N1Q4
+[2023.03.09-13.23.37:747][634]LogSavePackage: Moving 'C:/Users/PC/Documents/GitHub/vr-hitema/JeuB3DEV/Saved/UVAXTCI1AJZZ7EKDN5N1Q46608AFE5446C84244BB59F9F251D22BF.tmp' to 'C:/Users/PC/Documents/GitHub/vr-hitema/JeuB3DEV/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/GC/UVAXTCI1AJZZ7EKDN5N1Q4.uasset'
+[2023.03.09-13.23.37:750][634]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/N6/DID1P66UDVIRM9Q73UXSA0
+[2023.03.09-13.23.37:751][634]LogSavePackage: Moving 'C:/Users/PC/Documents/GitHub/vr-hitema/JeuB3DEV/Saved/DID1P66UDVIRM9Q73UXSA0D52CA0F047BA01E8C34E80BE5264A328.tmp' to 'C:/Users/PC/Documents/GitHub/vr-hitema/JeuB3DEV/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/N6/DID1P66UDVIRM9Q73UXSA0.uasset'
+[2023.03.09-13.23.37:753][634]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/XJ/3LO1PZI5NYLDQ121YZWILN
+[2023.03.09-13.23.37:754][634]LogSavePackage: Moving 'C:/Users/PC/Documents/GitHub/vr-hitema/JeuB3DEV/Saved/3LO1PZI5NYLDQ121YZWILNDEF599C844E0D70E4DD349B6746B79F9.tmp' to 'C:/Users/PC/Documents/GitHub/vr-hitema/JeuB3DEV/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/XJ/3LO1PZI5NYLDQ121YZWILN.uasset'
+[2023.03.09-13.23.37:756][634]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/5Z/SF14V69X3NAY6GZ2GO660P
+[2023.03.09-13.23.37:756][634]LogSavePackage: Moving 'C:/Users/PC/Documents/GitHub/vr-hitema/JeuB3DEV/Saved/SF14V69X3NAY6GZ2GO660P19151BB24FD8FE6A1771E7BAABAD6616.tmp' to 'C:/Users/PC/Documents/GitHub/vr-hitema/JeuB3DEV/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/5Z/SF14V69X3NAY6GZ2GO660P.uasset'
+[2023.03.09-13.23.37:759][634]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/J0/T9BJMCET35C4WKUSEV1S1A
+[2023.03.09-13.23.37:759][634]LogSavePackage: Moving 'C:/Users/PC/Documents/GitHub/vr-hitema/JeuB3DEV/Saved/T9BJMCET35C4WKUSEV1S1A17CAF86D4BCF333451CEE6B4B2504626.tmp' to 'C:/Users/PC/Documents/GitHub/vr-hitema/JeuB3DEV/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/J0/T9BJMCET35C4WKUSEV1S1A.uasset'
+[2023.03.09-13.23.37:761][634]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/SP/PT0YAD0781Q2S6TT1S6B40
+[2023.03.09-13.23.37:762][634]LogSavePackage: Moving 'C:/Users/PC/Documents/GitHub/vr-hitema/JeuB3DEV/Saved/PT0YAD0781Q2S6TT1S6B40F966EAB14051E3C0436BD9ADD101D601.tmp' to 'C:/Users/PC/Documents/GitHub/vr-hitema/JeuB3DEV/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/SP/PT0YAD0781Q2S6TT1S6B40.uasset'
+[2023.03.09-13.23.37:763][634]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/1I/FMN6W0ELC397GJBNBIECKE
+[2023.03.09-13.23.37:764][634]LogSavePackage: Moving 'C:/Users/PC/Documents/GitHub/vr-hitema/JeuB3DEV/Saved/FMN6W0ELC397GJBNBIECKECDD2E79041EF74CABD051B9D001A87D3.tmp' to 'C:/Users/PC/Documents/GitHub/vr-hitema/JeuB3DEV/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/1I/FMN6W0ELC397GJBNBIECKE.uasset'
+[2023.03.09-13.23.37:765][634]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/EY/411XE71MYLN9NUJ5WR4TMV
+[2023.03.09-13.23.37:766][634]LogSavePackage: Moving 'C:/Users/PC/Documents/GitHub/vr-hitema/JeuB3DEV/Saved/411XE71MYLN9NUJ5WR4TMVE42D3F484911ABFF1BDC46A9D489DEF9.tmp' to 'C:/Users/PC/Documents/GitHub/vr-hitema/JeuB3DEV/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/EY/411XE71MYLN9NUJ5WR4TMV.uasset'
+[2023.03.09-13.23.37:768][634]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/0R/BH70N11XS63E5U7JG7FNSZ
+[2023.03.09-13.23.37:768][634]LogSavePackage: Moving 'C:/Users/PC/Documents/GitHub/vr-hitema/JeuB3DEV/Saved/BH70N11XS63E5U7JG7FNSZ65F1480B439DD8CE92CB6F85B9CD0A4F.tmp' to 'C:/Users/PC/Documents/GitHub/vr-hitema/JeuB3DEV/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/0R/BH70N11XS63E5U7JG7FNSZ.uasset'
+[2023.03.09-13.23.37:770][634]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/1K/FYH3J68Z95UEEIDTXSZM7X
+[2023.03.09-13.23.37:771][634]LogSavePackage: Moving 'C:/Users/PC/Documents/GitHub/vr-hitema/JeuB3DEV/Saved/FYH3J68Z95UEEIDTXSZM7XCBB1369C428625556AF262B81BAC3BE6.tmp' to 'C:/Users/PC/Documents/GitHub/vr-hitema/JeuB3DEV/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/1K/FYH3J68Z95UEEIDTXSZM7X.uasset'
+[2023.03.09-13.23.37:772][634]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/CH/90D3PXSOUCI46S4EPZ4WHT
+[2023.03.09-13.23.37:773][634]LogSavePackage: Moving 'C:/Users/PC/Documents/GitHub/vr-hitema/JeuB3DEV/Saved/90D3PXSOUCI46S4EPZ4WHTE9E62B6042D036A26BE5F481E9915753.tmp' to 'C:/Users/PC/Documents/GitHub/vr-hitema/JeuB3DEV/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/CH/90D3PXSOUCI46S4EPZ4WHT.uasset'
+[2023.03.09-13.23.37:775][634]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/3J/4E4YFI6Y9G545E3QC1XH0C
+[2023.03.09-13.23.37:775][634]LogSavePackage: Moving 'C:/Users/PC/Documents/GitHub/vr-hitema/JeuB3DEV/Saved/4E4YFI6Y9G545E3QC1XH0C25E8D3DF4820605BB83B349F5ACC14C5.tmp' to 'C:/Users/PC/Documents/GitHub/vr-hitema/JeuB3DEV/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/3J/4E4YFI6Y9G545E3QC1XH0C.uasset'
+[2023.03.09-13.23.37:777][634]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/9L/C18W3GSQ46FNBUGX8AE7NA
+[2023.03.09-13.23.37:777][634]LogSavePackage: Moving 'C:/Users/PC/Documents/GitHub/vr-hitema/JeuB3DEV/Saved/C18W3GSQ46FNBUGX8AE7NA40637F74479D9B86F50B2DA918A76BCA.tmp' to 'C:/Users/PC/Documents/GitHub/vr-hitema/JeuB3DEV/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/9L/C18W3GSQ46FNBUGX8AE7NA.uasset'
+[2023.03.09-13.23.37:779][634]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/QL/OGWZ8C5X44QY8WEAEW7FL6
+[2023.03.09-13.23.37:780][634]LogSavePackage: Moving 'C:/Users/PC/Documents/GitHub/vr-hitema/JeuB3DEV/Saved/OGWZ8C5X44QY8WEAEW7FL6EAEA8D96433C7302A73C96B6AAA80175.tmp' to 'C:/Users/PC/Documents/GitHub/vr-hitema/JeuB3DEV/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/QL/OGWZ8C5X44QY8WEAEW7FL6.uasset'
+[2023.03.09-13.23.37:781][634]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/GS/FCL5RUDPAZD5YGQEWEQNXP
+[2023.03.09-13.23.37:782][634]LogSavePackage: Moving 'C:/Users/PC/Documents/GitHub/vr-hitema/JeuB3DEV/Saved/FCL5RUDPAZD5YGQEWEQNXPF73A4612475C443F8B8E24838B30BAE4.tmp' to 'C:/Users/PC/Documents/GitHub/vr-hitema/JeuB3DEV/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/GS/FCL5RUDPAZD5YGQEWEQNXP.uasset'
+[2023.03.09-13.23.37:783][634]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/EX/JXJ0OFXPFVXJU8HEH29TQP
+[2023.03.09-13.23.37:783][634]LogSavePackage: Moving 'C:/Users/PC/Documents/GitHub/vr-hitema/JeuB3DEV/Saved/JXJ0OFXPFVXJU8HEH29TQP5DC324FB449CEA15732DC08B8884C079.tmp' to 'C:/Users/PC/Documents/GitHub/vr-hitema/JeuB3DEV/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/EX/JXJ0OFXPFVXJU8HEH29TQP.uasset'
+[2023.03.09-13.23.37:784][634]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/JS/KG4QOOEJFJRM4QYY02AXY3
+[2023.03.09-13.23.37:784][634]LogSavePackage: Moving 'C:/Users/PC/Documents/GitHub/vr-hitema/JeuB3DEV/Saved/KG4QOOEJFJRM4QYY02AXY3414B805B48DAE8098D065293BE15039F.tmp' to 'C:/Users/PC/Documents/GitHub/vr-hitema/JeuB3DEV/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/JS/KG4QOOEJFJRM4QYY02AXY3.uasset'
+[2023.03.09-13.23.37:792][634]LogFileHelpers: InternalPromptForCheckoutAndSave took 87 ms
+[2023.03.09-13.23.37:796][634]AssetCheck: New page: Asset Save: multiple assets
+[2023.03.09-13.23.37:796][634]LogContentValidation: Display: Validating /Game/Blueprints/Platforms/BP-Platforms_4.BP-Platforms_4_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP-Platforms_4_C_UAID_2CF05D578535BC6D01_2006729360
+[2023.03.09-13.23.37:796][634]LogContentValidation: Display: Validating /Game/Blueprints/Platforms/BP-Platforms_4.BP-Platforms_4_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP-Platforms_4_C_UAID_2CF05D578535BC6D01_2049404362
+[2023.03.09-13.23.37:796][634]LogContentValidation: Display: Validating /Game/personnages/BP_Ninja.BP_Ninja_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Ninja_C_UAID_B42E994FFFB1D16C01_1770923991
+[2023.03.09-13.23.37:796][634]LogContentValidation: Display: Validating /Game/Blueprints/Platforms/BP-Platforms_4.BP-Platforms_4_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP-Platforms_4_C_UAID_2CF05D578535BC6D01_2074558365
+[2023.03.09-13.23.37:796][634]LogContentValidation: Display: Validating /Game/Blueprints/Platforms/BP-Platforms_4.BP-Platforms_4_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP-Platforms_4_C_UAID_2CF05D578535BC6D01_2068258364
+[2023.03.09-13.23.37:796][634]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_2CF05D578535D56C01_1356291733
+[2023.03.09-13.23.37:796][634]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_2CF05D578535D56C01_1591961750
+[2023.03.09-13.23.37:796][634]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_2CF05D578535D56C01_1362892734
+[2023.03.09-13.23.37:796][634]LogContentValidation: Display: Validating /Game/Blueprints/Platforms/BP-Platforms_4.BP-Platforms_4_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP-Platforms_4_C_UAID_2CF05D578535BC6D01_2082705366
+[2023.03.09-13.23.37:796][634]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_2CF05D578535D56C01_1375667736
+[2023.03.09-13.23.37:796][634]LogContentValidation: Display: Validating /Game/Blueprints/Platforms/BP-Platforms_4.BP-Platforms_4_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP-Platforms_4_C_UAID_2CF05D578535BC6D01_2028511361
+[2023.03.09-13.23.37:796][634]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_2CF05D578535D56C01_1380050737
+[2023.03.09-13.23.37:796][634]LogContentValidation: Display: Validating /Game/Blueprints/Platforms/BP-Platforms_4.BP-Platforms_4_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP-Platforms_4_C_UAID_2CF05D578535BC6D01_2061221363
+[2023.03.09-13.23.37:796][634]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_2CF05D578535D56C01_1600654752
+[2023.03.09-13.23.37:796][634]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_2CF05D578535BD6D01_2080579529
+[2023.03.09-13.23.37:796][634]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_2CF05D578535BD6D01_2015509528
+[2023.03.09-13.23.37:796][634]LogContentValidation: Display: Validating /Game/Blueprints/Platforms/BP-Platforms_4.BP-Platforms_4_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP-Platforms_4_C_UAID_2CF05D578535BD6D01_1385609527
+[2023.03.09-13.26.20:748][682]LogViewport: Scene viewport resized to 1587x648, mode Windowed.
+[2023.03.09-13.26.20:790][684]LogViewport: Scene viewport resized to 1587x630, mode Windowed.
+[2023.03.09-13.26.20:841][686]LogViewport: Scene viewport resized to 1587x596, mode Windowed.
+[2023.03.09-13.26.20:876][688]LogViewport: Scene viewport resized to 1587x574, mode Windowed.
+[2023.03.09-13.26.20:914][690]LogViewport: Scene viewport resized to 1587x559, mode Windowed.
+[2023.03.09-13.26.20:951][692]LogViewport: Scene viewport resized to 1587x550, mode Windowed.
+[2023.03.09-13.26.20:989][694]LogViewport: Scene viewport resized to 1587x546, mode Windowed.
+[2023.03.09-13.26.26:250][124]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StylizedProvencal/Meshes/SM_RockBrick_Medium_02.SM_RockBrick_Medium_02
+[2023.03.09-13.26.26:250][124]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StylizedProvencal/Meshes/SM_RockBrick_Medium_02.SM_RockBrick_Medium_02
+[2023.03.09-13.26.26:250][124]LogActorFactory: Actor Factory spawned StaticMesh /Game/StylizedProvencal/Meshes/SM_RockBrick_Medium_02.SM_RockBrick_Medium_02 as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_2
+[2023.03.09-13.26.27:299][235]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StylizedProvencal/Meshes/SM_RockBrick_Medium_02.SM_RockBrick_Medium_02
+[2023.03.09-13.26.27:299][235]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StylizedProvencal/Meshes/SM_RockBrick_Medium_02.SM_RockBrick_Medium_02
+[2023.03.09-13.26.27:300][235]LogActorFactory: Actor Factory spawned StaticMesh /Game/StylizedProvencal/Meshes/SM_RockBrick_Medium_02.SM_RockBrick_Medium_02 as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_2CF05D578535BE6D01_1814059706
+[2023.03.09-13.28.06:693][364]Cmd: EDIT COPY
+[2023.03.09-13.28.06:852][383]Cmd: EDIT PASTE
+[2023.03.09-13.28.12:505][ 48]Cmd: EDIT COPY
+[2023.03.09-13.28.12:680][ 69]Cmd: EDIT PASTE
+[2023.03.09-13.28.18:907][803]Cmd: EDIT COPY
+[2023.03.09-13.28.19:058][821]Cmd: EDIT PASTE
+[2023.03.09-13.28.22:498][224]Cmd: EDIT COPY
+[2023.03.09-13.28.22:666][244]Cmd: EDIT PASTE
+[2023.03.09-13.28.31:497][286]Cmd: EDIT COPY
+[2023.03.09-13.28.31:639][303]Cmd: EDIT PASTE
+[2023.03.09-13.28.38:442][ 88]Cmd: EDIT COPY
+[2023.03.09-13.28.38:594][106]Cmd: EDIT PASTE
+[2023.03.09-13.28.43:910][717]Cmd: EDIT COPY
+[2023.03.09-13.28.44:086][738]Cmd: EDIT PASTE
+[2023.03.09-13.28.49:216][341]Cmd: EDIT COPY
+[2023.03.09-13.28.49:357][358]Cmd: EDIT PASTE
+[2023.03.09-13.28.52:220][692]Cmd: EDIT COPY
+[2023.03.09-13.28.52:370][710]Cmd: EDIT PASTE
+[2023.03.09-13.28.55:354][ 59]Cmd: EDIT COPY
+[2023.03.09-13.28.55:504][ 77]Cmd: EDIT PASTE
+[2023.03.09-13.29.02:011][842]Cmd: EDIT COPY
+[2023.03.09-13.29.02:173][860]Cmd: EDIT PASTE
+[2023.03.09-13.29.04:861][171]Cmd: EDIT COPY
+[2023.03.09-13.29.05:020][190]Cmd: EDIT PASTE
+[2023.03.09-13.29.07:484][477]Cmd: EDIT COPY
+[2023.03.09-13.29.07:625][494]Cmd: EDIT PASTE
+[2023.03.09-13.29.10:630][845]Cmd: EDIT COPY
+[2023.03.09-13.29.10:805][866]Cmd: EDIT PASTE
+[2023.03.09-13.29.21:906][107]Cmd: EDIT COPY
+[2023.03.09-13.29.21:909][107]LogConsoleManager: Warning: Performance warning: Many (31) failed FindConsoleObject() for 'EDIT'. 
+[2023.03.09-13.29.22:050][124]Cmd: EDIT PASTE
+[2023.03.09-13.29.27:273][727]Cmd: EDIT COPY
+[2023.03.09-13.29.27:431][746]Cmd: EDIT PASTE
+[2023.03.09-13.29.33:625][466]Cmd: EDIT COPY
+[2023.03.09-13.29.33:774][484]Cmd: EDIT PASTE
+[2023.03.09-13.29.43:103][536]Cmd: EDIT COPY
+[2023.03.09-13.29.43:237][552]Cmd: EDIT PASTE
+[2023.03.09-13.30.23:097][ 38]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.03.09-13.30.23:165][ 38]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/YL/TF5KNELTOZ9NFF28G1AE57
+[2023.03.09-13.30.23:165][ 38]LogSavePackage: Moving 'C:/Users/PC/Documents/GitHub/vr-hitema/JeuB3DEV/Saved/TF5KNELTOZ9NFF28G1AE57582EA7F549B32B9D38C9F985C28A637E.tmp' to 'C:/Users/PC/Documents/GitHub/vr-hitema/JeuB3DEV/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/YL/TF5KNELTOZ9NFF28G1AE57.uasset'
+[2023.03.09-13.30.23:168][ 38]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/EX/JXJ0OFXPFVXJU8HEH29TQP
+[2023.03.09-13.30.23:168][ 38]LogSavePackage: Moving 'C:/Users/PC/Documents/GitHub/vr-hitema/JeuB3DEV/Saved/JXJ0OFXPFVXJU8HEH29TQP43CF2FDE4C786513E8307EB2F4C9EFEB.tmp' to 'C:/Users/PC/Documents/GitHub/vr-hitema/JeuB3DEV/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/EX/JXJ0OFXPFVXJU8HEH29TQP.uasset'
+[2023.03.09-13.30.23:170][ 38]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/JS/KG4QOOEJFJRM4QYY02AXY3
+[2023.03.09-13.30.23:170][ 38]LogSavePackage: Moving 'C:/Users/PC/Documents/GitHub/vr-hitema/JeuB3DEV/Saved/KG4QOOEJFJRM4QYY02AXY312F262C045B0666D820D36A9453E66CD.tmp' to 'C:/Users/PC/Documents/GitHub/vr-hitema/JeuB3DEV/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/JS/KG4QOOEJFJRM4QYY02AXY3.uasset'
+[2023.03.09-13.30.23:172][ 38]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/3U/RUXESXVINFYQUZTKFRDDNU
+[2023.03.09-13.30.23:172][ 38]LogSavePackage: Moving 'C:/Users/PC/Documents/GitHub/vr-hitema/JeuB3DEV/Saved/RUXESXVINFYQUZTKFRDDNU003C7E87476A763B7215A18441C814F2.tmp' to 'C:/Users/PC/Documents/GitHub/vr-hitema/JeuB3DEV/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/3U/RUXESXVINFYQUZTKFRDDNU.uasset'
+[2023.03.09-13.30.23:174][ 38]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/O2/5578HAEN35LF26KWOKG80U
+[2023.03.09-13.30.23:174][ 38]LogSavePackage: Moving 'C:/Users/PC/Documents/GitHub/vr-hitema/JeuB3DEV/Saved/5578HAEN35LF26KWOKG80UA436B26A4BFD56B1B4A35A82C6FA4DCD.tmp' to 'C:/Users/PC/Documents/GitHub/vr-hitema/JeuB3DEV/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/O2/5578HAEN35LF26KWOKG80U.uasset'
+[2023.03.09-13.30.23:176][ 38]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/F/3X/3CIAOYIFYLM50U47CANDZX
+[2023.03.09-13.30.23:176][ 38]LogSavePackage: Moving 'C:/Users/PC/Documents/GitHub/vr-hitema/JeuB3DEV/Saved/3CIAOYIFYLM50U47CANDZXAEAA439D41FA6648B155BFA91168A136.tmp' to 'C:/Users/PC/Documents/GitHub/vr-hitema/JeuB3DEV/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/F/3X/3CIAOYIFYLM50U47CANDZX.uasset'
+[2023.03.09-13.30.23:178][ 38]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/EY/F84J0QP6MFCCMCRODRGJQX
+[2023.03.09-13.30.23:178][ 38]LogSavePackage: Moving 'C:/Users/PC/Documents/GitHub/vr-hitema/JeuB3DEV/Saved/F84J0QP6MFCCMCRODRGJQX780E13E84B5EE7CD1960BF868BD50324.tmp' to 'C:/Users/PC/Documents/GitHub/vr-hitema/JeuB3DEV/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/EY/F84J0QP6MFCCMCRODRGJQX.uasset'
+[2023.03.09-13.30.23:180][ 38]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/0K/TDRFH8MFTHYEMKXP3TC5N3
+[2023.03.09-13.30.23:180][ 38]LogSavePackage: Moving 'C:/Users/PC/Documents/GitHub/vr-hitema/JeuB3DEV/Saved/TDRFH8MFTHYEMKXP3TC5N3CFF488274980B0C3176AAE97C2752E8F.tmp' to 'C:/Users/PC/Documents/GitHub/vr-hitema/JeuB3DEV/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/0K/TDRFH8MFTHYEMKXP3TC5N3.uasset'
+[2023.03.09-13.30.23:181][ 38]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/NH/10AGZ0X9UYP9HH55BECA1F
+[2023.03.09-13.30.23:181][ 38]LogSavePackage: Moving 'C:/Users/PC/Documents/GitHub/vr-hitema/JeuB3DEV/Saved/10AGZ0X9UYP9HH55BECA1FC49D2A354283DC0CFB9593854970711D.tmp' to 'C:/Users/PC/Documents/GitHub/vr-hitema/JeuB3DEV/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/NH/10AGZ0X9UYP9HH55BECA1F.uasset'
+[2023.03.09-13.30.23:183][ 38]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/3Z/K3NKK4X9T1NZ9Z9HOF3JYX
+[2023.03.09-13.30.23:183][ 38]LogSavePackage: Moving 'C:/Users/PC/Documents/GitHub/vr-hitema/JeuB3DEV/Saved/K3NKK4X9T1NZ9Z9HOF3JYX593C8EDA4739ED70988ACB86BF4674DE.tmp' to 'C:/Users/PC/Documents/GitHub/vr-hitema/JeuB3DEV/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/3Z/K3NKK4X9T1NZ9Z9HOF3JYX.uasset'
+[2023.03.09-13.30.23:185][ 38]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/4J/2FBCNQMN7FXT6N1JJUP591
+[2023.03.09-13.30.23:185][ 38]LogSavePackage: Moving 'C:/Users/PC/Documents/GitHub/vr-hitema/JeuB3DEV/Saved/2FBCNQMN7FXT6N1JJUP5919C9AFC9846EDA6C6FF5400A07CA6B001.tmp' to 'C:/Users/PC/Documents/GitHub/vr-hitema/JeuB3DEV/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/4J/2FBCNQMN7FXT6N1JJUP591.uasset'
+[2023.03.09-13.30.23:186][ 38]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/UR/XP71UCTMCZ8O8XPF4AEGRF
+[2023.03.09-13.30.23:186][ 38]LogSavePackage: Moving 'C:/Users/PC/Documents/GitHub/vr-hitema/JeuB3DEV/Saved/XP71UCTMCZ8O8XPF4AEGRF8288D6CF4F7068C0033125913FB3134C.tmp' to 'C:/Users/PC/Documents/GitHub/vr-hitema/JeuB3DEV/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/UR/XP71UCTMCZ8O8XPF4AEGRF.uasset'
+[2023.03.09-13.30.23:188][ 38]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/MU/XXYR4NPZQCS5SXVDRSDV7O
+[2023.03.09-13.30.23:188][ 38]LogSavePackage: Moving 'C:/Users/PC/Documents/GitHub/vr-hitema/JeuB3DEV/Saved/XXYR4NPZQCS5SXVDRSDV7OA33D603F4D97032AB4AE2F8FECE013D1.tmp' to 'C:/Users/PC/Documents/GitHub/vr-hitema/JeuB3DEV/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/MU/XXYR4NPZQCS5SXVDRSDV7O.uasset'
+[2023.03.09-13.30.23:189][ 38]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/UB/CNY2HI9M62UI47D7DSPKE1
+[2023.03.09-13.30.23:189][ 38]LogSavePackage: Moving 'C:/Users/PC/Documents/GitHub/vr-hitema/JeuB3DEV/Saved/CNY2HI9M62UI47D7DSPKE1FDCCBDE6413330B102A7398319C33CE1.tmp' to 'C:/Users/PC/Documents/GitHub/vr-hitema/JeuB3DEV/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/UB/CNY2HI9M62UI47D7DSPKE1.uasset'
+[2023.03.09-13.30.23:191][ 38]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/HS/Z9EUHT65HTPPAFUQ1OZH7R
+[2023.03.09-13.30.23:191][ 38]LogSavePackage: Moving 'C:/Users/PC/Documents/GitHub/vr-hitema/JeuB3DEV/Saved/Z9EUHT65HTPPAFUQ1OZH7R1D804C6948B09460B6D9339A4E45CD78.tmp' to 'C:/Users/PC/Documents/GitHub/vr-hitema/JeuB3DEV/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/HS/Z9EUHT65HTPPAFUQ1OZH7R.uasset'
+[2023.03.09-13.30.23:192][ 38]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/RV/NMPE7A6K86KOS4XCQRJAFA
+[2023.03.09-13.30.23:192][ 38]LogSavePackage: Moving 'C:/Users/PC/Documents/GitHub/vr-hitema/JeuB3DEV/Saved/NMPE7A6K86KOS4XCQRJAFA66929B4E4C8E8530953526B40ACC1667.tmp' to 'C:/Users/PC/Documents/GitHub/vr-hitema/JeuB3DEV/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/RV/NMPE7A6K86KOS4XCQRJAFA.uasset'
+[2023.03.09-13.30.23:194][ 38]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/26/Z2M8P8977RGVW495XBJXYV
+[2023.03.09-13.30.23:194][ 38]LogSavePackage: Moving 'C:/Users/PC/Documents/GitHub/vr-hitema/JeuB3DEV/Saved/Z2M8P8977RGVW495XBJXYVC3C1D3BC41AD7FA32F925DB7D5C13651.tmp' to 'C:/Users/PC/Documents/GitHub/vr-hitema/JeuB3DEV/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/26/Z2M8P8977RGVW495XBJXYV.uasset'
+[2023.03.09-13.30.23:196][ 38]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/JP/PQBL0JCNM14RROLHD23GMV
+[2023.03.09-13.30.23:196][ 38]LogSavePackage: Moving 'C:/Users/PC/Documents/GitHub/vr-hitema/JeuB3DEV/Saved/PQBL0JCNM14RROLHD23GMVE574908D4B19CBD7537FB3B65F896A60.tmp' to 'C:/Users/PC/Documents/GitHub/vr-hitema/JeuB3DEV/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/JP/PQBL0JCNM14RROLHD23GMV.uasset'
+[2023.03.09-13.30.23:197][ 38]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/ID/J27IACW0K1QTTC6ED2G18M
+[2023.03.09-13.30.23:197][ 38]LogSavePackage: Moving 'C:/Users/PC/Documents/GitHub/vr-hitema/JeuB3DEV/Saved/J27IACW0K1QTTC6ED2G18M381CCCBA48BA8E34A8756BBB5DF552AD.tmp' to 'C:/Users/PC/Documents/GitHub/vr-hitema/JeuB3DEV/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/ID/J27IACW0K1QTTC6ED2G18M.uasset'
+[2023.03.09-13.30.23:199][ 38]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/CY/51JZGGKIV1VMMYN9RKY1UX
+[2023.03.09-13.30.23:199][ 38]LogSavePackage: Moving 'C:/Users/PC/Documents/GitHub/vr-hitema/JeuB3DEV/Saved/51JZGGKIV1VMMYN9RKY1UXFF2AD74240089C53221D5BA2765DEF71.tmp' to 'C:/Users/PC/Documents/GitHub/vr-hitema/JeuB3DEV/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/CY/51JZGGKIV1VMMYN9RKY1UX.uasset'
+[2023.03.09-13.30.23:200][ 38]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/QB/JJK3777PQMTJ86X9YKKABS
+[2023.03.09-13.30.23:200][ 38]LogSavePackage: Moving 'C:/Users/PC/Documents/GitHub/vr-hitema/JeuB3DEV/Saved/JJK3777PQMTJ86X9YKKABSD5B7D967466C34B2E195EA9978D52597.tmp' to 'C:/Users/PC/Documents/GitHub/vr-hitema/JeuB3DEV/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/QB/JJK3777PQMTJ86X9YKKABS.uasset'
+[2023.03.09-13.30.23:202][ 38]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/XV/P1FDZPHGHU6WBNKKDMMJUN
+[2023.03.09-13.30.23:202][ 38]LogSavePackage: Moving 'C:/Users/PC/Documents/GitHub/vr-hitema/JeuB3DEV/Saved/P1FDZPHGHU6WBNKKDMMJUN7A65F54048DCFF22B9E8B2A9A9BBA501.tmp' to 'C:/Users/PC/Documents/GitHub/vr-hitema/JeuB3DEV/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/XV/P1FDZPHGHU6WBNKKDMMJUN.uasset'
+[2023.03.09-13.30.23:209][ 38]LogFileHelpers: InternalPromptForCheckoutAndSave took 111 ms (total: 198 ms)
+[2023.03.09-13.30.23:213][ 38]AssetCheck: New page: Asset Save: multiple assets
+[2023.03.09-13.30.23:213][ 38]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_1BTBTVEI8RK8PS00EPE3VAH7J_126_0_0_0
+[2023.03.09-13.30.23:213][ 38]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_2CF05D578535BE6D01_2009997724
+[2023.03.09-13.30.23:213][ 38]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_2CF05D578535BE6D01_2000535723
+[2023.03.09-13.30.23:213][ 38]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_2CF05D578535BE6D01_1994192722
+[2023.03.09-13.30.23:213][ 38]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_2CF05D578535BE6D01_1988810721
+[2023.03.09-13.30.23:213][ 38]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_2CF05D578535BE6D01_1977565720
+[2023.03.09-13.30.23:213][ 38]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_2CF05D578535BE6D01_1974386719
+[2023.03.09-13.30.23:213][ 38]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_2CF05D578535BE6D01_1971780718
+[2023.03.09-13.30.23:213][ 38]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_2CF05D578535BE6D01_1968933717
+[2023.03.09-13.30.23:213][ 38]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_2CF05D578535BE6D01_1962265716
+[2023.03.09-13.30.23:213][ 38]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_2CF05D578535BE6D01_1959130715
+[2023.03.09-13.30.23:213][ 38]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_2CF05D578535BE6D01_1956118714
+[2023.03.09-13.30.23:213][ 38]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_2CF05D578535BE6D01_1950846713
+[2023.03.09-13.30.23:213][ 38]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_2CF05D578535BE6D01_1945354712
+[2023.03.09-13.30.23:213][ 38]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_2CF05D578535BE6D01_1938399711
+[2023.03.09-13.30.23:213][ 38]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_2CF05D578535BE6D01_1929427710
+[2023.03.09-13.30.23:213][ 38]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_2CF05D578535BE6D01_1925818709
+[2023.03.09-13.30.23:213][ 38]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_2CF05D578535BE6D01_1919440708
+[2023.03.09-13.30.23:213][ 38]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_2CF05D578535BE6D01_1913612707
+[2023.03.09-13.30.23:213][ 38]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_2CF05D578535BE6D01_1814059706
+[2023.03.09-13.30.23:213][ 38]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_2CF05D578535BD6D01_2080579529
+[2023.03.09-13.30.23:213][ 38]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_2CF05D578535BD6D01_2015509528
